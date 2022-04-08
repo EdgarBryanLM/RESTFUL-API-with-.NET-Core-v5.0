@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SocialMedia.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SocialMedia.Api.Controllers.PostController.GetPosts(SocialMedia.Core.QueryFilters.POSTQueryFilter)">
+            <summary>
+            Regresa todos los posts de la base de datos
+            </summary>
+            <param name="filters">Filtros a aplicar</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
